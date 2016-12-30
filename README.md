@@ -6,7 +6,7 @@
 
 2. Coursera course:
 * Data structure and Algorithm
-[]https://www.coursera.org/specializations/algorithms
+[] https://www.coursera.org/specializations/algorithms
 []https://www.coursera.org/specializations/data-structures-algorithms
 
 * Data Science with R
@@ -16,7 +16,7 @@
 * Statistics with R
 []https://www.coursera.org/specializations/statistics
 
-*Data Science with Python
+* Data Science with Python
 []https://www.coursera.org/specializations/data-science-python
 
-*PHP & Mysql
+* PHP & Mysql
