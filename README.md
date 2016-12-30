@@ -6,7 +6,7 @@
 
 2. Coursera course:
 * Data structure and Algorithm
-[] https://www.coursera.org/specializations/algorithms
+[ ] https://www.coursera.org/specializations/algorithms
 []https://www.coursera.org/specializations/data-structures-algorithms
 
 * Data Science with R
