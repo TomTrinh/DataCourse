@@ -1,9 +1,9 @@
 # DataCourse
 
 ## 1. Review SQL code
-- [ ] [sql-commands](https://www.codecademy.com/articles/sql-commands)
-- [ ] [learn-sql](https://www.codecademy.com/learn/learn-sql)
-- [ ] [sql-analyzing-business-metrics](https://www.codecademy.com/learn/sql-analyzing-business-metrics/)
+- [X] [sql-commands](https://www.codecademy.com/articles/sql-commands)
+- [X] [learn-sql](https://www.codecademy.com/learn/learn-sql)
+- [X] [sql-analyzing-business-metrics](https://www.codecademy.com/learn/sql-analyzing-business-metrics/)
 
 ## 2. Coursera course
 
