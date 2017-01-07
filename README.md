@@ -14,7 +14,7 @@
   * Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming
   * Shortest Paths Revisited, NP-Complete Problems and What To Do About Them
 - [ ] [data-structures-algorithms](https://www.coursera.org/specializations/data-structures-algorithms)
-  * Algorithmic Toolbox - In progress
+  * Algorithmic Toolbox (https://www.coursera.org/learn/algorithmic-toolbox) - In progress
   * Data Structures
   * Algorithms on Graphs
   * Algorithms on Strings
