@@ -9,7 +9,18 @@
 
 ### i. Data structure and Algorithm
 - [ ] [algorithms](https://www.coursera.org/specializations/algorithms)
+  * Divide and Conquer, Sorting and Searching, and Randomized Algorithms
+  * Graph Search, Shortest Paths, and Data Structures
+  * Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming
+  * Shortest Paths Revisited, NP-Complete Problems and What To Do About Them
 - [ ] [data-structures-algorithms](https://www.coursera.org/specializations/data-structures-algorithms)
+  * Algorithmic Toolbox - In progress
+  * Data Structures
+  * Algorithms on Graphs
+  * Algorithms on Strings
+  * Advanced Algorithms and Complexity
+  * Genome Assembly Programming Challenge
+
 
 ### ii. Data Science with R
 - [ ] [R](https://www.coursera.org/specializations/r)
