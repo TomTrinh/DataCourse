@@ -13,7 +13,7 @@
 
 ### ii. Data Science with R
 - [ ] [R](https://www.coursera.org/specializations/r)
-  * The R Programming Environment
+  * The R Programming Environment (https://www.coursera.org/learn/r-programming-environment)
   * Advanced R Programming
   * Building R Packages
   * Building Data Visualization Tools
