@@ -13,6 +13,11 @@
 
 ### ii. Data Science with R
 - [ ] [R](https://www.coursera.org/specializations/r)
+  * The R Programming Environment
+  * Advanced R Programming
+  * Building R Packages
+  * Building Data Visualization Tools
+
 - [ ] [jhu-data-science](https://www.coursera.org/specializations/jhu-data-science)
 
 ### iii. Statistics with R
