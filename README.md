@@ -20,4 +20,4 @@
 - [ ] [jhu-data-science](https://www.coursera.org/specializations/jhu-data-science)
 
 ### iv. Data Science with Python
-- [ ] [Data Science Python]https://www.coursera.org/specializations/data-science-python)
+- [ ] [Data Science Python](https://www.coursera.org/specializations/data-science-python)
