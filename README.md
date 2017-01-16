@@ -40,6 +40,20 @@
   * Practical Machine Learning (https://www.coursera.org/learn/practical-machine-learning)
   * Developing Data Products (https://www.coursera.org/learn/data-products)
 
+Thân gửi các bạn học viên của khóa học Khoa Học Dữ Liệu.
+Việc làm sạch dữ liệu, biến đổi dữ liệu, chiết xuất (trích dữ liệu) .. trong khoa học dữ liệu được gọi là Data Manipulation hoặc Data Wrangling. Có lẽ nói không phóng đại khi nói rằng từ 50 đến 80% thời gian được tiêu tốn cho việc này và đương nhiên nó là một khâu không thể thiếu và luôn xuất hiện ngay ở đầu bất cứ dự án nào.
+Với 36000 quan sát đến từ 5 quốc gia làm thế nào các bạn tính ra được, ví dụ, những thống kê đơn giản như trung bình? sai số chuẩn cho điểm toán theo từng quốc gia?
+Để thành thạo các kĩ năng này, trước hết các bạn theo dõi loạt bài sau (theo thứ tự):
+1. Cơ bản về data manipulation với hệ sinh thái (hay gói) tidyverse:
+http://rpubs.com/chidungkt/234283
+2. Về sử dụng toán tử hút thuốc:
+http://rpubs.com/chidungkt/234438
+3. Về thực hành với bộ số liệu PISA:
+http://rpubs.com/chidungkt/236088
+http://rpubs.com/chidungkt/239958
+4. Về sử dụng gói DT trình bày bảng biểu:
+http://rpubs.com/chidungkt/233830
+
 
 ### iii. Statistics with R
 - [ ] [statistics](https://www.coursera.org/specializations/statistics)
